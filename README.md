@@ -1,11 +1,20 @@
 # Certifications
 
-## Data Science - Stats, Mahcine Learning, NLP-Python,R,BigData - Spark
+## CNN for Computer Vision with Keras and TensorFlow in Python 
 
-* This course covers basics to advanced concepts of Stats, Machine Learning, Natural Language Processing and BigData through technologies like Python, R and Spark.
+* The course explains the creation on CNN models using Keras and Tensorflow libraries and analyze their results. Also you can have a clear understanding of Advanced Image Recognition models such as LeNet, GoogleNet, VGG16 etc. after taking the course. 
 
 <p align="center">
-  <img width="500" height="400" src="Certificates/DataScience.jpg">
+  <img width="500" height="400" src="Certificates/CNN.jpg">
+</p>
+
+
+## Fundamental Data Analysis and Visualization Tools in Python
+
+* This course covers the visualizations libraries that are used to create different visualizations in Python. The course also contains user inerractive visualizations in Python. 
+
+<p align="center">
+  <img width="500" height="400" src="Certificates/DataVIsualization.jpg">
 </p>
 
 
@@ -27,12 +36,12 @@
 </p>
 
 
-## Fundamental Data Analysis and Visualization Tools in Python
+## Data Science - Stats, Mahcine Learning, NLP-Python,R,BigData - Spark
 
-* This course covers the visualizations libraries that are used to create different visualizations in Python. The course also contains user inerractive visualizations in Python. 
+* This course covers basics to advanced concepts of Stats, Machine Learning, Natural Language Processing and BigData through technologies like Python, R and Spark.
 
 <p align="center">
-  <img width="500" height="400" src="Certificates/DataVIsualization.jpg">
+  <img width="500" height="400" src="Certificates/DataScience.jpg">
 </p>
 
 
