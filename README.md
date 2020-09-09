@@ -1,5 +1,13 @@
 # Certifications
 
+## Complete Linear Regression Analysis in Python
+
+* The course explains the theory, creation and implementation on Linear Regression model. It also explains the Lasso and Ridge concepts in details.
+
+<p align="center">
+  <img width="500" height="400" src="Certificates/LinearRegression.jpg">
+</p>
+
 ## CNN for Computer Vision with Keras and TensorFlow in Python 
 
 * The course explains the creation on CNN models using Keras and Tensorflow libraries and analyze their results. Also you can have a clear understanding of Advanced Image Recognition models such as LeNet, GoogleNet, VGG16 etc. after taking the course. 
